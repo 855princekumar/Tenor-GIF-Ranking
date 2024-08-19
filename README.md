@@ -34,9 +34,8 @@ This repository contains the work and results of an assignment focused on upload
    - Ranked 7th overall but 1st in the sticker section.
 
 ## 🎥 Videos & Media
-- [Video 1: File Conversion and Upload Process](media/video1.mp4)
-- [Video 2: Ranking Analysis](media/video2.mp4)
-- [Video 3: Final Results](media/video3.mp4)
+- [Videos: Process Analysis](media/)
+
 
 ## 🧠 Analysis and Conclusion
 This project demonstrated the impact of SEO optimization and AI content processing on content ranking. The experiment yielded valuable insights that could be applied to further optimize content for digital platforms.
