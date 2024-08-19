@@ -41,7 +41,7 @@ This repository contains the work and results of an assignment focused on upload
 This project demonstrated the impact of SEO optimization and AI content processing on content ranking. The experiment yielded valuable insights that could be applied to further optimize content for digital platforms.
 
 ## 📜 Documentation
-- For detailed documentation, see the [Documentation](docs/documentation.pdf).
+- For detailed documentation, see the [Documentation](docs/).
 
 ## 🌟 Acknowledgments
 Thank you to Systemic Altruism for this opportunity. The project allowed for creative exploration of technical SEO in conjunction with AI-driven platforms.
