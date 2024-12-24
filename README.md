@@ -1,8 +1,6 @@
 # Tenor GIF Ranking Assignment
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/Tenor-GIF-Ranking-Assignment)
-![GitHub stars](https://img.shields.io/github/stars/your-username/Tenor-GIF-Ranking-Assignment?style=social)
 
 ## 📄 Overview
 This repository contains the work and results of an assignment focused on uploading and ranking a GIF file on Tenor using SEO optimization and AI content processing techniques. The task was assigned by Systemic Altruism for the Automation Developer position.
