@@ -2,21 +2,21 @@
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
 
-## 📄 Overview
+##  Overview
 This repository contains the work and results of an assignment focused on uploading and ranking a GIF file on Tenor using SEO optimization and AI content processing techniques. The task was assigned by Systemic Altruism for the Automation Developer position.
 
-## 📂 Project Structure
+##  Project Structure
 
 - **`/docs/`**
 - **`/media/`**
 - **`/scripts/`** 
 - **`README.md`** 
 
-## 🚀 Task Objective
+##  Task Objective
 - **Goal:** Upload a GIF and achieve a top ranking on Tenor.
 - **Approach:** Leverage SEO techniques and understand Tenor's AI-driven content processing to optimize the GIF for ranking.
 
-## 🛠️ Steps Taken
+##  Steps Taken
 
 1. **Research and Preparation:**
    - Researched Tenor’s AI processing and SEO relevance.
@@ -31,17 +31,17 @@ This repository contains the work and results of an assignment focused on upload
 4. **Results:**
    - Ranked 7th overall but 1st in the sticker section.
 
-## 🎥 Videos & Media
+##  Videos & Media
 - [Videos: Process Analysis](media/)
 
 
-## 🧠 Analysis and Conclusion
+##  Analysis and Conclusion
 This project demonstrated the impact of SEO optimization and AI content processing on content ranking. The experiment yielded valuable insights that could be applied to further optimize content for digital platforms.
 
-## 📜 Documentation
+##  Documentation
 - For detailed documentation, see the [Documentation](docs/).
 
-## 🌟 Acknowledgments
+##  Acknowledgments
 Thank you to Systemic Altruism for this opportunity. The project allowed for creative exploration of technical SEO in conjunction with AI-driven platforms.
 
 ---
